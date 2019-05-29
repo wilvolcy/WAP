@@ -1,0 +1,51 @@
+ 
+h2 {  
+    font-family: "Lucida Sans Unicode", Helvetica, Arial,  sans-serif ;
+    color: #A4A400 ;
+    background-color: #F0F0F0 ;
+    text-align: left;
+    text-decoration: underline;
+    size: 18pt;
+    }
+#main{
+ text-align: center;
+ 
+}
+
+ul {
+     list-style-type: none; 
+    }
+
+body{
+    background-color: white;
+    color: #404040;
+    size: 11pt;
+    font-family: Georgia, Garamond,serif; 
+    background-image: url("Images/silverware.jpg");
+    background-size: 1024px  768px;
+    background-repeat: repeat-x  repeat-y;
+    background-attachment: fixed;
+}
+abbr{
+    text-decoration: underline;
+}
+#spanCake{
+    text-decoration: line-through;
+}
+.bouletImage{
+    list-style-image: url('Images/pie_icon.gif');
+}
+
+div{
+    float: right;
+}
+
+.footerRight{
+    float: right;
+}
+blockquote{
+    background-color: rgb(247, 215, 136);
+}
+a:link{
+    color: yellow;
+}
