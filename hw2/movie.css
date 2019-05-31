@@ -1,0 +1,99 @@
+body{
+    background-image: url("Images/background.png");
+    font-size: 8pt;
+    font-family: Verdana,Tahoma, sans-serif
+}
+#banner{
+    text-align: center;
+    background-image: url("Images/bannerbg.png");
+    background-repeat: repeat-x;
+    height: 50px;
+ 
+}
+h1{
+    font-size: 24pt ;
+    font-weight: bold;
+    text-align: center;
+    font-family: Tahoma, Verdana,sans-serif;
+    text-shadow: 3px 3px  #999999;
+    
+
+}
+#main{
+    width: 800px;
+    margin: auto;
+    border: 4px grey solid;
+    border-radius: 20px;
+    
+    overflow: hidden;
+    
+}
+#section1{
+ width: 550px;
+height: 83px;
+float: left;
+}
+#rotten{
+    background-image: url("Images/rbg.png"); 
+    background-repeat: repeat-x; 
+    border-top-left-radius: 16px;
+   
+    
+}
+#percentage{
+    font-size: 48pt;
+    font-weight: bold;
+    color: red;
+    margin-bottom: 10px;
+    
+     
+}
+#review1{
+    width: 47%;
+    clear: both;
+    float: left;
+     
+}
+#review2{
+    width: 47%;
+    float: right;
+    
+}
+
+
+#section2{
+    width: 250px;
+    height: 700px;
+    float: right;
+    background-color: #A2B964;
+    font-size: 8pt;
+    font-family:  Arial,sans-serif;
+    
+    
+}
+#overviewImage{
+    border-top-right-radius: 16px;
+}
+#rottenImage{
+    border-top-left-radius: 16px;
+}
+.comment{
+    background-color: #E8DC9B;
+    border: gray 2px solid;
+    border-radius: 10px;
+}
+p{
+   margin: 10px;
+   padding-right: 10px;
+   padding-bottom: 10px;
+   padding-left: 10px;
+   
+}
+.imageComment{
+    float: left;
+}
+#footer{
+    text-align: right;
+}
+
+ 
