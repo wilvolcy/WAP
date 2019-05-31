@@ -24,13 +24,13 @@ h1{
     margin: auto;
     border: 4px grey solid;
     border-radius: 20px;
-    
+    position: relative;
     overflow: auto;
     
 }
 #section1{
- width: 550px;
-height: 83px;
+width: 550px;
+/* height: 83px; */
 float: left;
 }
 #rotten{
@@ -93,6 +93,17 @@ p{
 }
 #footer{
     text-align: right;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    
+}
+nav{
+    clear: both;
+    text-align: center;
+    background-color: #A2B964;
+    padding: 5px;
+
 }
 
  
