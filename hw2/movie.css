@@ -25,7 +25,7 @@ h1{
     border: 4px grey solid;
     border-radius: 20px;
     
-    overflow: hidden;
+    overflow: auto;
     
 }
 #section1{
@@ -63,13 +63,12 @@ float: left;
 
 #section2{
     width: 250px;
-    height: 700px;
+    /* height: 700px; */
     float: right;
     background-color: #A2B964;
     font-size: 8pt;
     font-family:  Arial,sans-serif;
-    
-    
+  
 }
 #overviewImage{
     border-top-right-radius: 16px;
