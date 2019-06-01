@@ -1,0 +1,24 @@
+body{
+    background-image: url("Images/background1.PNG");
+    background-repeat: y;
+}
+#main{
+    width: 80%;
+    margin: auto;
+    padding: 15px;
+    background-color: rgb(200, 209, 228);
+    border: lightpink solid 2px;
+    border-radius: 12px;
+     
+}
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace 'Times New Roman', serif;
+}
+.moodImg{
+    height: 200px;
+}
+#divfooter{
+    float: right;
+    margin: 15px;
+}
