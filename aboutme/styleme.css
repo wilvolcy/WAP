@@ -1,6 +1,6 @@
 body{
     background-image: url("Images/background1.PNG");
-    background-repeat: y;
+    background-repeat: repeat-y;
 }
 #main{
     width: 80%;
@@ -13,7 +13,7 @@ body{
 }
 h1{
     text-align: center;
-    font-family: 'Courier New', Courier, monospace 'Times New Roman', serif;
+    font-family: 'Courier New', Courier, monospace ,'Times New Roman', serif;
 }
 .moodImg{
     height: 200px;
