@@ -10,7 +10,7 @@
         var subtotalInt = parseInt(subtotal);
         var tipInt = parseInt(tip);
 
-        var calcul = subtotalInt* (tipInt/100);
+        var calcul = (subtotalInt* (tipInt/100)) +(subtotalInt) ;
         totalElem.innerHTML = '$' + calcul;
     }
 
