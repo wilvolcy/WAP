@@ -31,6 +31,7 @@ section{
 }
 #framePart{
     width: 100%;
+    
      
 }
 
@@ -39,18 +40,97 @@ section{
 }
 .centerComp{
     text-align: center;
+    
 }
 #imgCarte{
 width: 300px;
 height: 180px;
 float: right;
 }
-#firstform{
-    
-    float: left;
-   
-    
+#firstform{    
+    float: left;   
 }
 #bottom{
     clear: both;
 }
+footer{
+    overflow: auto;
+    margin-top: 20px;
+    background-image: url("Images/background.PNG")
+   
+}
+#ImageFinal{
+    width: 90px;
+    height: 43px;
+}
+#logoNorton{
+    width: 60px;
+    height: 30px;
+    float: right;
+}
+#finaleDiv{
+    width: 70%;
+    margin: auto;
+}
+table {
+    border-collapse: collapse;
+    /* border: 1.5px solid black; */
+  } 
+  td,tr{
+      border: 1px solid #bbb;
+  }
+  table.b {
+  /* table-layout: auto;
+  width: 100%;   */
+}
+
+td:nth-child(1) {
+    background: #ccc;
+    width: 200px;
+
+  }
+#td_annual{
+ vertical-align: top;
+  }
+  #headerLeft h1{
+   color : #003d99;
+  }
+  #firstListinHead{
+      list-style: none;
+  }
+  .centerHeader{
+      text-align: center;
+      color: #0052cc;
+  }
+ 
+  
+  input[type=text], select,input[type=date] {
+    width: 30%;
+    padding: 12px 20px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-right: 10px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+  input[type=button] {
+    width: 75%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    /* margin: 8px 0; */
+    margin-left: 13%;;
+     
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  hr{
+      color:  #cce6ff;
+  }
+  
+  
