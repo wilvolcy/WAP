@@ -1,0 +1,56 @@
+#divImageFirst{
+    text-align: center;
+    
+}
+#logo{
+    width: 150px;
+    height: 55px;
+}
+#headerLeft{
+    float: left;
+}
+#headerRight{
+    float: right;
+}
+header{
+    width: 70%;
+    /* margin-left: 10%; */
+    margin: auto;
+    
+    overflow: auto;
+}
+section{
+    clear: both;
+    margin: auto;
+    border: 1px grey solid;
+     
+    width: 70%;
+    overflow: auto;
+    padding: 15px;
+
+}
+#framePart{
+    width: 100%;
+     
+}
+
+#divFrame{
+   
+}
+.centerComp{
+    text-align: center;
+}
+#imgCarte{
+width: 300px;
+height: 180px;
+float: right;
+}
+#firstform{
+    
+    float: left;
+   
+    
+}
+#bottom{
+    clear: both;
+}
