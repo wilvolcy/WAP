@@ -87,7 +87,7 @@ table {
 td:nth-child(1) {
     background: #ccc;
     width: 200px;
-
+    font-weight: bold;
   }
 #td_annual{
  vertical-align: top;
@@ -104,13 +104,13 @@ td:nth-child(1) {
   }
  
   
-  input[type=text], select,input[type=date] {
-    width: 30%;
+  input[type=text], select,input[type=date],input[type=email] {
+     
     padding: 12px 20px;
     margin-top: 8px;
     margin-bottom: 8px;
-    margin-right: 10px;
-    margin: 8px 0;
+    margin-right: 25px;
+    /* margin: 8px 0; */
     display: inline-block;
     border: 1px solid #ccc;
     border-radius: 4px;
@@ -132,5 +132,38 @@ td:nth-child(1) {
   hr{
       color:  #cce6ff;
   }
-  
+  #idFirstName{
+      margin-right: 150px;
+  }
+  #idDateOfBirth{
+    margin-right: 135px; 
+  }
+  #idSocialSecurity{
+    margin-right: 123px; 
+  }
+  #idTexbox1{
+      width: 35%;
+  }
+  #idHomeAddress{
+    margin-right: 150px;
+  }
+  #idMail{
+    margin-right: 260px;  
+  }
+  #idAnnualIncom{
+    margin-right: 120px;
+    margin-top: 20px;  
+  }
+  #idmortgage{
+    margin-right: 120px;  
+  }
+  #idBank{
+    margin-right: 140px;  
+  }
+  #idMonthly{
+      margin-left: 255px;
+  }
+  select{
+      width: 35%;
+  }
   
