@@ -3,7 +3,7 @@
 $(function() {
 	$('#hw').change(function() {
         // var file = 'homeworks/'+$('#hw').val();
-         var file = 'https://wilvolcy.github.io/WAP/'+$('#hw').val();
+         var file = '../'+$('#hw').val();
         
 		$.ajax({
             'url': file,
