@@ -3,7 +3,8 @@
 $(function() {
 	$('#hw').change(function() {
         // var file = 'homeworks/'+$('#hw').val();
-         var file = 'testText/'+$('#hw').val();
+        // var file = 'testText/'+$('#hw').val();
+         var file = '../'+$('#hw').val();
         
 		$.ajax({
             'url': file,
