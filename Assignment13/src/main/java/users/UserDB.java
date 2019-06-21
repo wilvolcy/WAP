@@ -9,7 +9,7 @@ public class UserDB {
         users.add(new User("test","test"));
         users.add(new User("admin","admin"));
         users.add(new User("admin","root"));
-        users.add(new User("Prakash","Koju"));
+
     }
 
     public UserDB(ArrayList<User> users) {
