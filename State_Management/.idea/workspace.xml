@@ -8,9 +8,6 @@
   <component name="ChangeListManager">
     <list default="true" id="91d28133-2713-46b5-9acd-44635c5569b8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../Assignment13/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment13/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment13/out/artifacts/Assignment13_war_exploded/WEB-INF/classes/users/UserDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment13/out/artifacts/Assignment13_war_exploded/WEB-INF/classes/users/UserDB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment13/src/main/java/users/UserDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment13/src/main/java/users/UserDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment13/target/classes/users/UserDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment13/target/classes/users/UserDB.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
